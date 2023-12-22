@@ -6,9 +6,9 @@ Welcome to the Amazon Clone Application! This application is a simplified replic
 
 ## Features
 
-- **User Authentication**: Users log in/log out and maintain a personalized shopping experience.
+- **User Authentication**: Users can log in/log out and maintain a personalized shopping experience.
 - **Shopping Cart**: Add products to the cart and proceed to checkout.
-- **Payment Processing**: Simulate the checkout process, including payment with sample data.
+- **Payment Processing**: Simulate the checkout process.
 
 ## Technologies Used
 
